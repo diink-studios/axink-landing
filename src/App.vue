@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="https://raw.githubusercontent.com/diink-studios/axink-landing/main/dist/img/axink_w_logo.9e074b08.png">
+    <img alt="Vue logo" src="https://raw.githubusercontent.com/diink-studios/axink-landing/main/src/assets/axink_w_logo.png">
     <p>Multi-platform game engine for web developers.</p>
   </div>
 </template>
